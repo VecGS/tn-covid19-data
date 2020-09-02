@@ -1,9 +1,9 @@
 County,Date,Event,Source
 Carter,2020-07-17,Mask Mandate,
-Davidson,2020-06-28,Mask Mandate,https://www.newschannel5.com/news/metro-health-board-to-discuss-possible-face-mask-mandate
 Davidson,2020-05-11,Phase 1,https://www.tennessean.com/story/news/2020/05/11/nashville-reopening-phase-one-what-to-know-restaurant-rules-shops/3107239001/
 Davidson,2020-05-25,Phase 2,https://www.msn.com/en-us/news/us/nashville-to-move-on-to-phase-two-of-reopening-on-monday/ar-BB14q2HC
 Davidson,2020-06-22,Phase 3,https://www.newschannel5.com/rebound/nashville-to-begin-phase-3-of-reopening-on-monday
+Davidson,2020-06-28,Mask Mandate,https://www.newschannel5.com/news/metro-health-board-to-discuss-possible-face-mask-mandate
 Davidson,2020-07-03,Phase 2.5,https://www.wkrn.com/community/health/coronavirus/nashville-moves-into-modified-version-of-phase-two/
 Davidson,2020-08-17,Phase 2.6,https://www.wkrn.com/community/health/coronavirus/bars-to-reopen-in-nashville-with-limited-capacity-monday/
 Davidson,2020-09-01,Phase 2.7,https://www.tennessean.com/story/news/health/2020/08/27/nashville-allow-increased-bar-capacity-venues-host-weddings-and-other-ceremonies-sept-1/5643824002/
@@ -13,6 +13,8 @@ Hamblen,2020-08-04,Mask Mandate,
 Hamilton,2020-07-10,Mask Mandate,http://health.hamiltontn.org/AllServices/Coronavirus(COVID-19)/Orders.aspx
 Hawkins,2020-07-17,Mask Mandate,
 Knox,2020-07-01,Mask Mandate,
+Lake,2020-05-13,Prison Outbreak,https://fox17.com/news/local/lake-county-announces-201-new-confirmed-cases-of-covid-19-due-to-virus-outbreak-at-prison
+Lake,2020-06-03,Prison Outbreak,https://www.timesfreepress.com/news/breakingnews/story/2020/jun/03/tennessees-lake-county-leads-us-capita-coronavirus-cases/524467/
 Lauderdale,2020-07-09,Mask Mandate,
 Madison,2020-07-04,Mask Mandate,
 Montgomery,2020-07-20,Mask Mandate,
