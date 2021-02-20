@@ -1,6 +1,7 @@
 County,Date,Event,Source
 Bledsoe,2020-04-23,Prison Outbreak,https://www.nashvillescene.com/news/pith-in-the-wind/article/21130409/the-bledsoe-county-prison-covid19-outbreak-is-one-of-the-worst-in-the-country
 Carter,2020-07-17,Mask Mandate,
+Carter,2021-02-19,No Mask Mandate,https://www.johnsoncitypress.com/news/carter-unicoi-and-washington-county-mayors-to-lift-face-mask-requirement/article_294f08d0-72e0-11eb-b080-0f6dc7c50cd8.html
 Davidson,2020-05-11,Phase 1,https://www.tennessean.com/story/news/2020/05/11/nashville-reopening-phase-one-what-to-know-restaurant-rules-shops/3107239001/
 Davidson,2020-05-25,Phase 2,https://www.msn.com/en-us/news/us/nashville-to-move-on-to-phase-two-of-reopening-on-monday/ar-BB14q2HC
 Davidson,2020-06-22,Phase 3,https://www.newschannel5.com/rebound/nashville-to-begin-phase-3-of-reopening-on-monday
@@ -63,7 +64,9 @@ Tipton,2020-08-04,Mask Mandate,https://covingtonleader.com/news/tipton-issued-co
 Trousdale,2020-05-01,Prison Outbreak,https://www.wkrn.com/community/health/coronavirus/trousdale-county-leads-us-in-virus-cases-per-capita-due-to-prison/
 Unicoi,2020-06-01,Prison Outbreak,https://www.johnsoncitypress.com/opinion/editorials/unicoi-county-outbreak-a-wakeup-call/article_fa5145ed-64d7-58bf-8318-421c914f10e8.html
 Unicoi,2020-07-17,Mask Mandate,
+Unicoi,2021-02-19,No Mask Mandate,https://www.johnsoncitypress.com/news/carter-unicoi-and-washington-county-mayors-to-lift-face-mask-requirement/article_294f08d0-72e0-11eb-b080-0f6dc7c50cd8.html
 Washington,2020-07-15,Mask Mandate,
+Washington,2021-02-19,No Mask Mandate,https://www.johnsoncitypress.com/news/carter-unicoi-and-washington-county-mayors-to-lift-face-mask-requirement/article_294f08d0-72e0-11eb-b080-0f6dc7c50cd8.html
 Wayne,2020-08-31,Prison Outbreak,https://www.wkrn.com/community/health/coronavirus/tdoc-965-inmates-test-positive-for-covid-19-at-wayne-county-correctional-facility/
 Wayne,2020-11-18,Mask Mandate,https://www.wkrn.com/community/health/coronavirus/wayne-county-executive-announces-new-mask-mandate-as-covid-19-concerns-continue/
 Weakley,2020-08-10,Mask Mandate,
